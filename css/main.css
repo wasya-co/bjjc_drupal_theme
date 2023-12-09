@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* B */
+#block-bjjc-drupal-theme-page-title {
+  display: inline-block;
+  background-color: #e9ecef; }
+
+/* breadcrumbs */
+#block-breadcrumbs {
+  display: inline-block; }
+
+nav.breadcrumb {
+  display: flex; }
+  nav.breadcrumb > div :after {
+    content: "››";
+    padding: 0 1em; }
+
+/* R */
+/* S */
+.site-name {
+  text-align: center; }
+
+/* V */
+.view-_023q3-scrum-view .view-content {
+  display: flex;
+  flex-wrap: wrap; }
